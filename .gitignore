@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Google API sensitive files
+token.json
+credentials.json
+
+# Temporary files
+temp_voice.mp3
+*.log
+
+# Distribution / build files
+dist/
+build/
+*.spec
